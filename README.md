@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xenSlayer
+- 👋 Hi, I’m xen
 - 👀 I’m interested in cross platform mobile app development
 - 🌱 I’m currently learning Flutter and Django
 - ⏬ Check out my first app published in google playstore https://play.google.com/store/apps/details?id=com.kiran.flick
