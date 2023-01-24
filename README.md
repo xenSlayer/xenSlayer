@@ -21,3 +21,5 @@
 xenSlayer/xenSlayer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="kiranpaudel1892" data-description="Support me on Buy me a coffee!" data-message="Thank you very much! ❤" data-color="#FF813F" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
