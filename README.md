@@ -1,13 +1,3 @@
-<h1> &nbsp;Welcome to xen's Github profile</h1>
-
-- 👋 Hi, I’m xen
-- 👀 I’m interested in cross platform mobile app development
-- 🌱 I’m currently learning Flutter and Django
-- ⏬ Check out my first app published in google playstore https://play.google.com/store/apps/details?id=com.kiran.flick
-- 🕵 check my arts and designs https://www.deviantart.com/kiranpaudel
-- ❤ Music 🎶 & football ⚽
-<br>
-<h3> &nbsp; • stats and langs</h3>
 <a href="https://github.com/Xenslayer">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xenslayer&show_icons=true&count_private=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xenslayer&theme=radical&layout=compact" />
